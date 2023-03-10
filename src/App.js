@@ -10,13 +10,7 @@ function App() {
         <a class="navbar-brand">Clicky Game</a>
       </div>
     </nav>
-
-    <div class="card" style="width: 18rem;">
-  <img src="" class="card-img-top" alt="..."></img>
-  <div class="card-body">
-  </div>
 </div>
-    </div>
   );
 }
 
